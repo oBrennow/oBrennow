@@ -14,7 +14,7 @@
 
 Sou Brennow, um profissional de dados em transição para **Machine Learning Engineering com foco em Deep Learning**. Tenho domínio técnico como **Analista de Dados** e estou aplicando esse conhecimento em projetos reais — com **Python, SQL, visualização interativa, NLP e modelagem de dados**.
 
-Minha stack de backend é baseada em **Go (Gin)** e estou construindo APIs e aplicação com arquitetura limpa, performance e escalabilidade.
+Minha stack de backend é baseada em **Go (Gin)** e estou construindo APIs e aplicações com arquitetura limpa, performance e escalabilidade.
 
 > 🚀 Atualmente desenvolvendo projetos de Analise de dados, relatórios dinâmicos e arquiteturas escaláveis para transformar dados em decisões.
 
