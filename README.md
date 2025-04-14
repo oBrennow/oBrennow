@@ -68,10 +68,17 @@ Minha stack de backend é baseada em **Go (Gin)** e estou construindo APIs e mic
 
 ---
 
-## 🔥 Animação da Stack
+## 🧰 Minha Stack de Linguagens
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Minha%20Stack&line1=Python,NumPy,Pandas,Jinja2&line2=Go,Gin,Docker,PostgreSQL&line3=TensorFlow,PyTorch,Plotly,SQL" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
 </p>
 
 ---
