@@ -37,75 +37,112 @@ Minha stack de backend é baseada em **Go (Gin)** e estou construindo APIs e mic
 ## 🧰 Tecnologias por Categoria
 
 ### 🤖 Machine Learning
-> Ferramentas para algoritmos supervisionados e não-supervisionados.
-- `Scikit-learn`
-- `Pandas`
-- `NumPy`
-- `Matplotlib`, `Seaborn`
-- `SQL`, `Jupyter Notebook`
+- [`Scikit-learn`](https://scikit-learn.org/stable/)
+- [`Pandas`](https://pandas.pydata.org/)
+- [`NumPy`](https://numpy.org/)
+- [`Matplotlib`](https://matplotlib.org/)
+- [`Seaborn`](https://seaborn.pydata.org/)
+- [`SQL`](https://www.postgresql.org/docs/)
+- [`Jupyter Notebook`](https://jupyter.org/)
 
 ### 🧬 Deep Learning
-> Foco em redes neurais profundas e NLP.
-- `TensorFlow`
-- `PyTorch`
-- `Keras`
-- `Google Colab`
-- Trilha IBM AI Engineering (Coursera)
+- [`TensorFlow`](https://www.tensorflow.org/)
+- [`PyTorch`](https://pytorch.org/)
+- [`Keras`](https://keras.io/)
+- [`Google Colab`](https://colab.research.google.com/)
+- [`IBM AI Engineering`](https://www.coursera.org/professional-certificates/ai-engineer)
 
 ### 📊 Análise de Dados
-> Do ETL ao insight visual.
-- `Python`
-- `Pandas`, `NumPy`, `SQL`
-- `Seaborn`, `Matplotlib`, `Plotly`
-- `Jinja2` (para relatórios automatizados)
+- [`Python`](https://www.python.org/)
+- [`Pandas`](https://pandas.pydata.org/)
+- [`NumPy`](https://numpy.org/)
+- [`Seaborn`](https://seaborn.pydata.org/)
+- [`Matplotlib`](https://matplotlib.org/)
+- [`Plotly`](https://plotly.com/)
+- [`Power BI`](https://learn.microsoft.com/pt-br/power-bi/)
 
 ### 🌐 Desenvolvimento Web
-> Backend com Go e arquitetura escalável.
-- `Go`, `Gin`, `PostgreSQL`
-- `Docker`, `SQLX`, `Viper`
-- Arquitetura: Clean Architecture, 12 Fatores
-- Monitoramento: `Prometheus`, `Grafana`
+- [`Go`](https://go.dev/)
+- [`Gin`](https://gin-gonic.com/)
+- [`PostgreSQL`](https://www.postgresql.org/)
+- [`Docker`](https://www.docker.com/)
+- [`SQLX`](https://github.com/jmoiron/sqlx)
+- [`Viper`](https://github.com/spf13/viper)
+- [`Prometheus`](https://prometheus.io/)
+- [`Grafana`](https://grafana.com/)
 
 ---
 
-## 🧰 Minha Stack de Linguagens
+## 🚧 Em Progresso
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" /></a><br>Go (Gin)
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></a><br>Docker
+    </td>
+    <td align="center" width="130">
+      <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /></a><br>Linux
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" /></a><br>R
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Minha Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide=prs" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" width="380"/>
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center" width="130">
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a><br>Python
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /></a><br>SQL
+    </td>
+    <td align="center" width="130">
+      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /></a><br>Pandas
+    </td>
+    <td align="center" width="130">
+      <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /></a><br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" /></a><br>Jupyter / Anaconda
+    </td>
+    <td align="center" width="130">
+      <a href="https://learn.microsoft.com/pt-br/power-bi/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" /></a><br>Power BI
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /></a><br>TensorFlow
+    </td>
+    <td align="center" width="130">
+      <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" /></a><br>Keras
+    </td>
+  </tr>
+</table>
 
-## 🧠 Certificação em Progresso
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coursera-IBM%20AI%20Engineering-blue?style=for-the-badge&logo=coursera" />
-</p>
+</div>
 
 ---
 
 ## 📬 Vamos nos conectar?
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/seuusuario"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/brennoou_sw/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/isayas-santos"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/oBrennow"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
