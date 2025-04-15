@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou o Brennow! ✨</h1>
+<h1 align="center">✨ Olá, eu sou oBrennow! ✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" />
